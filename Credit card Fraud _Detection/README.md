@@ -19,15 +19,9 @@ This project focuses on building a **machine learning–based fraud detection mo
 ---
 
 ## 📊 Dataset Description
-- Dataset Type: Credit card transaction data  
-- Target Variable: **Class**
-  - `0` → Legitimate transaction  
-  - `1` → Fraudulent transaction  
-- Machine Learning Task: **Binary Classification**  
-- Key Characteristics:
-  - Highly imbalanced dataset  
-  - Numerical, anonymized features  
-  - Real-world fraud detection scenario  
+  - Dataset Overview:
+The dataset comprises simulated credit card transactions, encompassing both genuine and fraudulent activities. The data is presented in CSV format, sourced from the Kaggle public dataset. Generated using the Sparkov Data Generation tool developed by Brandon Harris, the dataset spans from January 1, 2019, to December 31, 2020.
+link for the datset :- https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
 
 ---
 
